@@ -3,5 +3,5 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 
 ## Stack
 1. [Stack Implementation](./Stack+Queue/Stack+Implementation.playground)
-2. [License File](./LICENSE)
+
 
