@@ -5,4 +5,5 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 1. [Stack Implementation](./Stack+Queue/Stack+Implementation.playground)
 2. [Nearest Smaller Element](./Stack+Queue/Nearest%20Smaller%20Element.playground)
 3. [LRU Cache](./Stack+Queue/LRU%20Cache.playground)
-
+4. [Largest Rectangle in Histogram](./Stack+Queue/Largest%20Rectangle%20in%20Histogram.playground)
+5. [Min Stack](./Stack+Queue/Min%20Stack.playground)
