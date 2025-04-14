@@ -10,3 +10,5 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 
 ## String
 1. [Reverse Words in a String](./String/Reverse%20Words%20in%20a%20String.playground/Contents.swift)
+2. [Longest Palindromic Substring](./String/Longest%20Palindromic%20Substring.playground/Contents.swift)
+3. [Roman To Integer](./String/Roman%20To%20Integer.playground/Contents.swift)
