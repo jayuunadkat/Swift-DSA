@@ -18,3 +18,5 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 7. [Isomorphic Strings](./String/Isomorphic%20Strings.playground/Contents.swift)
 8. [Rotate String](./String/Rotate%20String.playground/Contents.swift)
 9. [Valid Anagram](./String/Valid%20Anagram.playground/Contents.swift)
+10. [Maximum Nesting Depth of the Parentheses](./String/Maximum%20Nesting%20Depth%20of%20the%20Parentheses.playground/Contents.swift)
+11. [Sort Characters By Frequency](./String/Sort%20Characters%20By%20Frequency.playground/Contents.swift)
