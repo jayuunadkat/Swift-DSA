@@ -13,3 +13,8 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 2. [Longest Palindromic Substring](./String/Longest%20Palindromic%20Substring.playground/Contents.swift)
 3. [Roman To Integer](./String/Roman%20To%20Integer.playground/Contents.swift)
 4. [Remove Outermost Parentheses](./String/Remove%20Outermost%20Parentheses.playground/Contents.swift)
+5. [Largest Odd Number in String](./String/Largest%20Odd%20Number%20in%20String.playground/Contents.swift)
+6. [Longest Common Prefix](./String/Longest%20Common%20Prefix.playground/Contents.swift)
+7. [Isomorphic Strings](./String/Isomorphic%20Strings.playground/Contents.swift)
+8. [Rotate String](./String/Rotate%20String.playground/Contents.swift)
+9. [Valid Anagram](./String/Valid%20Anagram.playground/Contents.swift)
