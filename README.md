@@ -30,3 +30,6 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 19. [Shortest Palindrome](./String/Shortest%20Palindrome.playground/Contents.swift)
 20. [Longest Happy Prefix](./String/Longest%20Happy%20Prefix.playground/Contents.swift)
 21. [Compare Version Numbers](./String/Compare%20Version%20Numbers.playground/Contents.swift)
+
+## Binary Tree
+1. [Binary Tree Level Order Traversal](./Binary%20Tree/Binary%20Tree%20Level%20Order%20Traversal.swift)
