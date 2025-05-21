@@ -32,4 +32,7 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 21. [Compare Version Numbers](./String/Compare%20Version%20Numbers.playground/Contents.swift)
 
 ## Binary Tree
-1. [Binary Tree Level Order Traversal](./Binary%20Tree/Binary%20Tree%20Level%20Order%20Traversal.swift)
+1. [Binary Tree Inorder Traversal - Recursive](./Binary%20Tree/Binary%20Tree%20Inorder%20Traversal%20-%20Recursive.playground/Contents.swift)  
+2. [Binary Tree Preorder Traversal - Recursive](./Binary%20Tree/Binary%20Tree%20Preorder%20Traversal%20-%20Recursive.playground/Contents.swift)  
+3. [Binary Tree Postorder Traversal - Recursive](./Binary%20Tree/Binary%20Tree%20Postorder%20Traversal%20-%20Recursive.playground/Contents.swift)  
+4. [Binary Tree Level Order Traversal](./Binary%20Tree/Binary%20Tree%20Level%20Order%20Traversal.playground/Contents.swift)  
