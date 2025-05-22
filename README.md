@@ -32,7 +32,10 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 21. [Compare Version Numbers](./String/Compare%20Version%20Numbers.playground/Contents.swift)
 
 ## Binary Tree
-1. [Binary Tree Inorder Traversal - Recursive](./Binary%20Tree/Binary%20Tree%20Inorder%20Traversal%20-%20Recursive.playground/Contents.swift)  
-2. [Binary Tree Preorder Traversal - Recursive](./Binary%20Tree/Binary%20Tree%20Preorder%20Traversal%20-%20Recursive.playground/Contents.swift)  
-3. [Binary Tree Postorder Traversal - Recursive](./Binary%20Tree/Binary%20Tree%20Postorder%20Traversal%20-%20Recursive.playground/Contents.swift)  
-4. [Binary Tree Level Order Traversal](./Binary%20Tree/Binary%20Tree%20Level%20Order%20Traversal.playground/Contents.swift)  
+1. [Binary Tree Preorder Traversal - Recursive](BinaryTree/PreorderTraversal-Recursive/Contents.swift)
+2. [Binary Tree Inorder Traversal - Recursive](BinaryTree/InorderTraversal-Recursive/Contents.swift)
+3. [Binary Tree Postorder Traversal - Recursive](BinaryTree/PostorderTraversal-Recursive/Contents.swift)
+4. [Binary Tree Preorder Traversal - Iterative](BinaryTree/PreorderTraversal-Iterative/Contents.swift)
+5. [Binary Tree Inorder Traversal - Iterative](BinaryTree/InorderTraversal-Iterative/Contents.swift)
+6. [Binary Tree Postorder Traversal - Iterative](BinaryTree/PostorderTraversal-Iterative/Contents.swift)
+7. [Binary Tree Level Order Traversal](BinaryTree/LevelOrderTraversal/Contents.swift)
