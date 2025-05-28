@@ -39,4 +39,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 5. [Binary Tree Inorder Traversal - Iterative](./Binary%20Tree/Binary%20Tree%20Inorder%20Traversal%20-%20Iterative.playground/Contents.swift)  
 6. [Binary Tree Postorder Traversal - Iterative](./Binary%20Tree/Binary%20Tree%20Postorder%20Traversal%20-%20Iterative.playground/Contents.swift)  
 7. [Binary Tree Level Order Traversal](./Binary%20Tree/Binary%20Tree%20Level%20Order%20Traversal.playground/Contents.swift)  
-8. [Binary Tree Preorder, Inorder, and Postorder Traversal in One Pass](./Binary%20Tree/Binary%20Tree%20All%20Traversals%20in%20One%20Pass.playground/Contents.swift)  
+8. [Binary Tree Preorder Inorder and Postorder Traversal in One Pass](./Binary%20Tree/Binary%20Tree%20All%20Traversals%20in%20One%20Pass.playground/Contents.swift)  
