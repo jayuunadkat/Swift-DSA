@@ -46,3 +46,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 12. [Binary Tree Maximum Path Sum](./Binary%20Tree/Binary%20Tree%20Maximum%20Path%20Sum.playground/Contents.swift)  
 13. [Same Tree](./Binary%20Tree/Same%20Tree.playground/Contents.swift)
 14. [Binary Tree Zigzag Level Order Traversal](./Binary%20Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.playground/Contents.swift)
+15. [Boundary of Binary Tree](./Binary%20Tree/Boundary%20of%20Binary%20Tree.playground/Contents.swift)
