@@ -47,3 +47,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 13. [Same Tree](./Binary%20Tree/Same%20Tree.playground/Contents.swift)
 14. [Binary Tree Zigzag Level Order Traversal](./Binary%20Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.playground/Contents.swift)
 15. [Boundary of Binary Tree](./Binary%20Tree/Boundary%20of%20Binary%20Tree.playground/Contents.swift)
+16. [Vertical Order Traversal of a Binary Tree](./Binary%20Tree/Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.playground/Contents.swift)
