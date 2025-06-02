@@ -49,3 +49,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 15. [Boundary of Binary Tree](./Binary%20Tree/Boundary%20of%20Binary%20Tree.playground/Contents.swift)
 16. [Vertical Order Traversal of a Binary Tree](./Binary%20Tree/Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.playground/Contents.swift)
 17. [Symmetric Tree](./Binary%20Tree/Symmetric%20Tree.playground/Contents.swift)
+18. [Top View of Binary Tree](./Binary%20Tree/Top%20View%20of%20Binary%20Tree.playground/Contents.swift)
