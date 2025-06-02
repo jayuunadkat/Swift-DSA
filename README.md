@@ -51,4 +51,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 17. [Symmetric Tree](./Binary%20Tree/Symmetric%20Tree.playground/Contents.swift)
 18. [Top View of Binary Tree](./Binary%20Tree/Top%20View%20of%20Binary%20Tree.playground/Contents.swift)
 19. [Bottom View of Binary Tree](./Binary%20Tree/Bottom%20View%20of%20Binary%20Tree.playground/Contents.swift)
-20 [Binary Tree Right and Left Side View](./Binary%20Tree/Binary%20Tree%20Right%20and%20Left%20Side%20View.playground/Contents.swift)
+20. [Binary Tree Right and Left Side View](./Binary%20Tree/Binary%20Tree%20Right%20and%20Left%20Side%20View.playground/Contents.swift)
