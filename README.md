@@ -55,3 +55,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 21. [Binary Tree Paths](./Binary%20Tree/Binary%20Tree%20Paths.playground/Contents.swift)
 22. [Path to Given Node](./Binary%20Tree/Path%20to%20Given%20Node.playground/Contents.swift)
 23. [Lowest Common Ancestor of a Binary Tree](./Binary%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.playground/Contents.swift)
+24. [Maximum Width of Binary Tree](./Binary%20Tree/Maximum%20Width%20of%20Binary%20Tree.playground/Contents.swift)
