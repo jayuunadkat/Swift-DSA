@@ -57,3 +57,6 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 23. [Lowest Common Ancestor of a Binary Tree](./Binary%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.playground/Contents.swift)
 24. [Maximum Width of Binary Tree](./Binary%20Tree/Maximum%20Width%20of%20Binary%20Tree.playground/Contents.swift)
 25. [Children Sum Property](./Binary%20Tree/Children%20Sum%20Property.playground/Contents.swift)
+26. [All Nodes Distance K in Binary Tree](./Binary%20Tree/All%20Nodes%20Distance%20K%20in%20Binary%20Tree.playground/Contents.swift)  
+27. [Amount of Time for Binary Tree to Be Infected](./Binary%20Tree/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.playground/Contents.swift)  
+28. [Count Complete Tree Nodes](./Binary%20Tree/Count%20Complete%20Tree%20Nodes.playground/Contents.swift)
