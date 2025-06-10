@@ -60,3 +60,5 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 26. [All Nodes Distance K in Binary Tree](./Binary%20Tree/All%20Nodes%20Distance%20K%20in%20Binary%20Tree.playground/Contents.swift)  
 27. [Amount of Time for Binary Tree to Be Infected](./Binary%20Tree/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.playground/Contents.swift)  
 28. [Count Complete Tree Nodes](./Binary%20Tree/Count%20Complete%20Tree%20Nodes.playground/Contents.swift)
+29. [Construct Binary Tree from Preorder and Inorder Traversal](./Binary%20Tree/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.playground/Contents.swift)  
+30. [Construct Binary Tree from Inorder and Postorder Traversal](./Binary%20Tree/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.playground/Contents.swift)
