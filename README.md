@@ -65,3 +65,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 31. [Serialize and Deserialize Binary Tree](./Binary%20Tree/Serialize%20and%20Deserialize%20Binary%20Tree.playground/Contents.swift)
 32. [Binary Tree Inorder Traversal Using Morris Traversal](./Binary%20Tree/Binary%20Tree%20Inorder%20Traversal%20Using%20Morris%20Traversal.playground/Contents.swift)
 33. [Binary Tree Preorder Traversal Using Morris Traversal](./Binary%20Tree/Binary%20Tree%20Preorder%20Traversal%20Using%20Morris%20Traversal.playground/Contents.swift)
+34. [Flatten Binary Tree to Linked List](./Binary%20Tree/Flatten%20Binary%20Tree%20to%20Linked%20List.playground/Contents.swift)
