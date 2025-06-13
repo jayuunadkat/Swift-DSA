@@ -64,4 +64,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 30. [Construct Binary Tree from Inorder and Postorder Traversal](./Binary%20Tree/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.playground/Contents.swift)
 31. [Serialize and Deserialize Binary Tree](./Binary%20Tree/Serialize%20and%20Deserialize%20Binary%20Tree.playground/Contents.swift)
 32. [Binary Tree Inorder Traversal Using Morris Traversal](./Binary%20Tree/Binary%20Tree%20Inorder%20Traversal%20Using%20Morris%20Traversal.playground/Contents.swift)
-33. [Binary Tree Preorder Traversal Using Morris Traversal](./Binary%20Tree/Binary%20Tree%Preorder%20Traversal%20Using%20Morris%20Traversal.playground/Contents.swift)
+33. [Binary Tree Preorder Traversal Using Morris Traversal](./Binary%20Tree/Binary%20Tree%20Preorder%20Traversal%20Using%20Morris%20Traversal.playground/Contents.swift)
