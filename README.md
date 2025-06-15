@@ -69,3 +69,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 
 ## Binary Search Tree
 1. [Search in a Binary Search Tree](./Binary%20Search%20Tree/Search%20in%20a%20Binary%20Search%20Tree.playground/Contents.swift)
+2. [Ceil in a Binary Search Tree](./Binary%20Search%20Tree/Ceil%20in%20a%20Binary%20Search%20Tree.playground/Contents.swift)
