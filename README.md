@@ -75,3 +75,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 5. [Delete Node in a BST](./Binary%20Search%20Tree/Delete%20Node%20in%20a%20BST.playground/Contents.swift)
 6. [Kth Smallest Element in a BST](./Binary%20Search%20Tree/Kth%20Smallest%20Element%20in%20a%20BST.playground/Contents.swift)
 7. [Validate Binary Search Tree](./Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.playground/Contents.swift)
+8. [Lowest Common Ancestor of a Binary Search Tree](./Binary%20Search%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.playground/Contents.swift)
