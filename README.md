@@ -77,3 +77,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 7. [Validate Binary Search Tree](./Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.playground/Contents.swift)
 8. [Lowest Common Ancestor of a Binary Search Tree](./Binary%20Search%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.playground/Contents.swift)
 9. [Construct Binary Search Tree from Preorder Traversal](./Binary%20Search%20Tree/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.playground/Contents.swift)
+10. [Inorder Successor and Predecessor in BST](./Binary%20Search%20Tree/Inorder%20Successor%20and%20Predecessor%20in%20BST.playground/Contents.swift)
