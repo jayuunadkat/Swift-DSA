@@ -80,3 +80,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 10. [Inorder Successor and Predecessor in BST](./Binary%20Search%20Tree/Inorder%20Successor%20and%20Predecessor%20in%20BST.playground/Contents.swift)
 11. [Binary Search Tree Iterator](./Binary%20Search%20Tree/Binary%20Search%20Tree%20Iterator.playground/Contents.swift)
 12. [Two Sum IV - Input is a BST](./Binary%20Search%20Tree/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.playground/Contents.swift)
+13. [Recover Binary Search Tree](./Binary%20Search%20Tree/Recover%20Binary%20Search%20Tree.playground/Contents.swift)
