@@ -83,4 +83,4 @@ A collection of Data Structures and Algorithms implemented in Swift. Organized b
 13. [Recover Binary Search Tree](./Binary%20Search%20Tree/Recover%20Binary%20Search%20Tree.playground/Contents.swift)
 14. [Largest BST](./Binary%20Search%20Tree/Largest%20BST.playground/Contents.swift)
 15. [Convert Sorted Array to Binary Search Tree](./Binary%20Search%20Tree/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.playground/Contents.swift)
-16. [Populating Next Right Pointers in Each Node](./Binary%20Tree/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.playground/Contents.swift)
+16. [Populating Next Right Pointers in Each Node](./Binary%20Search%20Tree/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.playground/Contents.swift)
